@@ -8,6 +8,8 @@ This repository includes code and a pre-trained model of PANDA2 for protein func
 ```
 wget http://dna.cs.miami.edu/PANDA2/download_files/gcn37onlyesm_cafa.cnn ./
 wget http://dna.cs.miami.edu/PANDA2/download_files/gcn37onlyesm_cafa.gcn ./
+wget https://dna.cs.miami.edu/PANDA2/download_files/data-cafa.zip ./
+unzip data-cafa.zip
 ```
 3. Run PANDA2 with a fasta format file
 ```
